@@ -5,12 +5,14 @@ import datetime
 import telepot
 import RPi.GPIO as GPIO
 from telepot.loop import MessageLoop
+
 red=23 # connect red led at pin 23 of raspberry pi
 now=datetime.datetime.now()
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
 GPIO.setup(red,GPIO.OUT)
 GPIO.output(red,0)
+
 def action(msg):
     chat_id = msg['chat']['id']
     command = msg['text']

@@ -5,7 +5,7 @@ import Adafruit_ADS1x15
 
 adc = Adafruit_ADS1x15.ADS1115()
 GAIN = 1
-val = [ ]
+val = []
 cnt = 0
 plt.ion()
 
