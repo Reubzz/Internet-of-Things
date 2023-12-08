@@ -1,3 +1,5 @@
+# Q6 - Visitors Module
+
 import RPi.GPIO as gpio
 import picamera
 import time
@@ -30,7 +32,7 @@ def capture_image():
     camera.stop_preview()
     print("Image Captured Successfully")
     time.sleep(2)
-    
+
 def gate():
     print("    Welcome  ")
     gpio.output(m11, 1)

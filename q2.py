@@ -1,4 +1,4 @@
-# Q2 - Capturing Images & CLIPS with Raspberry Pi and Pi Camera
+# Q2 - Capturing images and clips using Rasberry Pi and Pi Camera
 
 # Camera Photo
 from time import sleep

@@ -1,3 +1,5 @@
+# Q1 - Displaying time over 4 digit 7 segment display using Rasberry Pi.
+
 import sys 
 import RPi.GPIO as GPIO 
 import time, datetime 

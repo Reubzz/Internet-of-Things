@@ -1,3 +1,5 @@
+# Q7 - Oscilloscope
+
 import time
 import matplotlib.pyplot as plt
 from drawnow import *
