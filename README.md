@@ -14,4 +14,6 @@
 
 [Q7 - Oscilloscope](./q7.py)
 
-
+<hr>
+<br>
+<img src="./RPI Pins.jpeg" width="max-width">
