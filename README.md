@@ -14,6 +14,9 @@
 
 [Q7 - Oscilloscope](./q7.py)
 
+[Rasberry PI BSc IT Manual.pdf](./Raspberry%20Pi%20BSC%20IT%20manual%20new.pdf)
+
 <hr>
 <br>
-<img src="./RPI Pins.jpeg" width="max-width">
+
+![RPI 20pins Image](./RPI%20Pins.jpeg)
