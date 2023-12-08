@@ -30,6 +30,7 @@ def capture_image():
     camera.stop_preview()
     print("Image Captured Successfully")
     time.sleep(2)
+    
 def gate():
     print("    Welcome  ")
     gpio.output(m11, 1)
@@ -45,6 +46,7 @@ def gate():
     gpio.output(m12, 0)
     print("  Thank You  ")
     time.sleep(2)
+    
 print("Visitor Monitoring")
 print("    Using RPI     ")
 time.sleep(3)
