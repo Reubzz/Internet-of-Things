@@ -14,7 +14,9 @@
 
 [Q7 - Oscilloscope](./q7.py)
 
-[Rasberry PI BSc IT Manual.pdf](./Raspberry%20Pi%20BSC%20IT%20manual%20new.pdf)
+<hr>
+
+#### [Rasberry PI BSc IT Manual.pdf](./Raspberry%20Pi%20BSC%20IT%20manual%20new.pdf)
 
 <hr>
 <br>
